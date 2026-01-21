@@ -1,0 +1,12 @@
+# SQLite databases
+*.db
+
+# CSV imports / exports
+*.csv
+
+# SQLTools / VS Code noise
+*.session.sql
+.vscode/
+
+# macOS junk
+.DS_Store

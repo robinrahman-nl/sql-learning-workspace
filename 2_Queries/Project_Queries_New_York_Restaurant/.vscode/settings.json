@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "name": "manipulation",
+            "driver": "SQLite",
+            "database": "/Users/robin/github/1_Software_Engineering/7_Learn_SQL/1_Manipulation/manipulation.db",
+            "previewLimit": 50
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "nomnom.db",
+            "database": "${workspaceFolder:Project_Queries_New_York_Restaurant}/nomnom.db"
+        }
+    ]
+}
