@@ -130,3 +130,8 @@ Includes full projects:
 **Ownership:**
 All queries, logic, and learning outcomes are my own.  
 AI was used as a **tool**, not a substitute for understanding.
+
+## 📄 Disclaimer
+
+This repository contains personal solutions inspired by Codecademy exercises.  
+It does not reproduce Codecademy lesson content or assessments.
